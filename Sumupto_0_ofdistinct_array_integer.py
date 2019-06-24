@@ -11,6 +11,3 @@ def solutions(ranks):
     
 ranks = [4,2,0,1]
 print(solutions(ranks))
-
-
-given an integer n returns an array containing n distinct integers that sum up to 0
